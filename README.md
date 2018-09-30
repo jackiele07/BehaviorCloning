@@ -30,7 +30,8 @@ My project includes the following files:
 * model.py containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
 * VGG_model.h5 containing a trained convolution neural network
-* writeup_report.md or summarizing the results
+* Report to summarize the result
+* video of result as run1.mp4
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing
